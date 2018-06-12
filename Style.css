@@ -1,0 +1,13 @@
+
+<!-- Color of the page -->
+body {
+    color: red;
+}
+<!-- Placement of the /texts -->
+p{
+	margin-top: 100px;
+	margin-bottom: 50px;
+	margin-right: 200px;
+	margin-left: 150px;
+	
+	}
